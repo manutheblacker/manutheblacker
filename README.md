@@ -1,6 +1,6 @@
 ### Howdy Dev Shawties! 👋
 
-### I'm Emmanuel ADEKPLOVI aka Manu The Blvcker 😎
+### I'm Emmanuel A. aka Manu The Blvcker 😎
 I am a Software Engineer, WordPress Enthusiast and Product Manager of HomeScript 👩🏾‍💻  
 I am passionate about building digital solutions that improve the way to work and scale business.
 
