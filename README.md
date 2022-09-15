@@ -38,7 +38,7 @@ I am passionate about building digital solutions that improve the way to work an
 - I would build Django REST API for your next project.  
   
 ### Get in touch :  
-- 📫 How to reach me: [Send me an email](mailto:emmanuel.adekplovi@tidiomailing.com)
+- 📫 How to reach me: [Send me an email](mailto:emmanuel.adekplovi@homescriptone.com)
 - 😄 Pronouns: He/Mr
 - ⚡ Fun fact: In an alternate universe I will be part of the Straw Hats crew not writing code but avoiding the World Government in order to find the One Piece, but since we are in the real world, I am a hero fighting bugs 👨🏾‍💻
 
