@@ -12,9 +12,6 @@ I am passionate about building digital solutions that improve the way to work an
 [WP Data Merge](https://wpdatamerge.com/)
 - Sync and Merge two WordPress websites in few clicks
 
-[TadagbeRhPlus](https://tadagberhplus.com/)
-- Manage a company human ressources from your browser
-
 ### Live Projects I Currently Manage 
 [Ultimate SMS Notifications](https://wordpress.org/plugins/ultimate-sms-notifications)
 - A WooCommerce SMS Notifications Plugin
