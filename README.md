@@ -6,7 +6,7 @@ I am passionate about building digital solutions that improve the way to work an
 
 
 ### Live Projects I'm Contributing
-[Conditionnal Discounts for WooCommerce]([https://discountsuiteforwp.com/](https://www.orionorigin.com/product/conditional-discounts-for-woocommerce))
+[Conditionnal Discounts for WooCommerce]([https://www.orionorigin.com/product/conditional-discounts-for-woocommerce])
 - A WooCommerce Discount Plugin
 
 [WP Data Merge](https://wpdatamerge.com/)
