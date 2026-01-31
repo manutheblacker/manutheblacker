@@ -1,41 +1,40 @@
 ### Howdy Dev Shawties! 👋
 
-### I'm Emmanuel A. aka Manu The Blvcker 😎
-I am a Software Engineer, WordPress Enthusiast and Product Manager of HomeScript 👩🏾‍💻  
-I am passionate about building digital solutions that improve the way to work and scale business.
+### I'm Emmanuel ADEKPLOVI also called Manu The Blvcker 😎 
 
+## 🧑🏾‍💻 About Me
 
-### Live Projects I'm Contributing
-[Conditionnal Discounts for WooCommerce](https://www.orionorigin.com/product/conditional-discounts-for-woocommerce)
-- A WooCommerce Discount Plugin
+I'm from Benin Republic 🇧🇯.
 
-[WP Data Merge](https://wpdatamerge.com/)
-- Sync and Merge two WordPress websites in few clicks
+I've been doing WordPress plugin development for 7 years now. You can find my contributions on the WordPress repository [here](https://profiles.wordpress.org/homescript).
 
-### Live Projects I Currently Manage 
-[Ultimate SMS Notifications](https://wordpress.org/plugins/ultimate-sms-notifications)
-- A WooCommerce SMS Notifications Plugin
+I've also learned web app development using the Python framework Django. I use it to build personal projects and platforms for a few companies locally. One day, I may release a useful package to the community that helps do something special there.
 
-### Fun Projects 
-[Calculator 🧮](https://github.com/manutheblacker/react-calculator) 
-- A minimal calculator built in React
+I learned to build UI using JavaScript languages and frameworks like React, React Native, Svelte (4 & 5), NextJS, SvelteKit, and Tailwind CSS. I'm not a frontend developer at 100%, but I can make sure to provide something pixel-perfect if the project requires it.
 
-[Chill Radio 🦸🏽‍♀️](https://github.com/manutheblacker/chillradio)
-- A radio playing chill songs all the day built in React
+## ⚙️ DevOps & Infrastructure
 
-### WordPress
-- I currently build WordPress plugins and solutions at [Orion Origin](http://orionorigin.com/).
-- I build WordPress sites, plugins too you can talk to me about that. 
+I also enjoy deploying and managing web servers (Linux preferably; I've been using AlmaLinux, Ubuntu, and Debian in production VPS environments recently).
+I also know how to configure pipelines to deploy your app to your preferred remote platform using GitLab CI/CD, GitHub Actions, and others.
 
-### WooCommerce 💬
-- Speak to me about WooCommerce websites
-- If you need to customize your store with some new amazing features i will be your plug.😉  
+## 🚀 Work & Projects
 
-### Django 
-- I would build Django REST API for your next project.  
-  
-### Get in touch :  
-- 📫 How to reach me: [Send me an email](mailto:emmanuel.adekplovi@homescriptone.com)
-- 😄 Pronouns: He/Mr
-- ⚡ Fun fact: In an alternate universe I will be part of the Straw Hats crew not writing code but avoiding the World Government in order to find the One Piece, but since we are in the real world, I am a hero fighting bugs 👨🏾‍💻
+I'm open to remote jobs that may leverage the different skill sets mentioned here.
+In my free time, I work on my side projects that will blow one day under the names Homescript / UltiWP / Tiyalo.
 
+Like it's said in the Radiohead song *There There*:
+```
+
+We are accidents waiting to happen
+
+```
+I hope you'll come here by accident and discuss your next project.
+
+I would have just said I'm a full-stack developer, but it would not make sense. Some projects have not been shared because a few things inside are private.
+
+I'm waiting for you to get in touch below.
+
+### Get in touch:
+- 📫 How to reach me: [Send me an email here](mailto:emmanuel.adekplovi@homescriptone.com) or [here](mailto:homescript1@gmail.com)
+- 😄 Pronouns: He / Mr
+- ⚡ Fun fact: In an alternate universe, I will be part of the Straw Hats crew—not writing code, but avoiding the World Government in order to find the One Piece. Since we are in the real world, I am a hero fighting bugs 👨🏾‍💻
