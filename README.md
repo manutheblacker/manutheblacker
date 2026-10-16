@@ -1,40 +1,85 @@
-### Howdy Dev Shawties! 👋
+# Howdy, Dev Shawties! 👋🏾
 
-### I'm Emmanuel ADEKPLOVI also called Manu The Blvcker 😎 
+I'm **Emmanuel ADEKPLOVI**, better known as **Manu The Blvcker** 😎
+
+🇧🇯 Developer, problem-solver, and entrepreneur from Benin Republic.
 
 ## 🧑🏾‍💻 About Me
 
-I'm from Benin Republic 🇧🇯.
+I've spent years building things for the web, starting with **WordPress development and integration** and expanding into web applications, mobile development, DevOps, and AI-powered workflows.
 
-I've been doing WordPress plugin development for 7 years now. You can find my contributions on the WordPress repository [here](https://profiles.wordpress.org/homescript).
+I've been developing WordPress plugins for 7+ years. From plugins and themes to complete business websites, WooCommerce solutions, custom integrations, and pretty much anything related to WordPress, I enjoy making the platform work for the needs of a project.
 
-I've also learned web app development using the Python framework Django. I use it to build personal projects and platforms for a few companies locally. One day, I may release a useful package to the community that helps do something special there.
+You can explore my contributions on my [WordPress.org profile](https://profiles.wordpress.org/homescript).
 
-I learned to build UI using JavaScript languages and frameworks like React, React Native, Svelte (4 & 5), NextJS, SvelteKit, and Tailwind CSS. I'm not a frontend developer at 100%, but I can make sure to provide something pixel-perfect if the project requires it.
+Over time, my work has grown beyond WordPress. I build web applications using **Python and Django**, as well as **React, Next.js, and related frameworks**. I also develop mobile applications with **React Native and Expo**, including app builds, release management, and publishing to the Apple App Store and Google Play Store.
 
-## ⚙️ DevOps & Infrastructure
+And because writing code is only part of the journey, I've invested in **DevOps and infrastructure** to manage deployments, automate workflows, and keep applications running in production.
 
-I also enjoy deploying and managing web servers (Linux preferably; I've been using AlmaLinux, Ubuntu, and Debian in production VPS environments recently).
-I also know how to configure pipelines to deploy your app to your preferred remote platform using GitLab CI/CD, GitHub Actions, and others.
+More recently, I've been exploring how AI tools can help me build software, solve problems, create video content, and experiment with new ideas.
 
-## 🚀 Work & Projects
+I enjoy understanding the whole process, from the first idea to implementation, deployment, and maintenance.
 
-I'm open to remote jobs that may leverage the different skill sets mentioned here.
-In my free time, I work on my side projects that will blow one day under the names Homescript / UltiWP / Tiyalo.
+## 🛠️ My Technical Playground
 
-Like it's said in the Radiohead song *There There*:
-```
+- **WordPress & E-commerce:** Plugin development, theme development, website integration, WooCommerce, custom functionality, and third-party integrations.
+- **Backend Development:** Python, Django, REST APIs, and application architecture.
+- **Frontend Development:** JavaScript, React, Next.js, Svelte (4 & 5), SvelteKit, and Tailwind CSS.
+- **Mobile Development:** React Native, Expo, app builds, store submissions, and release management.
+- **DevOps & Infrastructure:** Linux server administration, Docker, VPS management, CI/CD pipelines, GitHub Actions, GitLab CI/CD, and production deployments.
+- **Databases & Storage:** PostgreSQL, MySQL, Redis, and S3-compatible storage.
 
-We are accidents waiting to happen
+I'm not attached to a single technology or job title. I care about understanding the problem, choosing the right tools, and delivering a solution that works.
 
-```
-I hope you'll come here by accident and discuss your next project.
+## 🤖 AI, Automation & Creative Experiments
 
-I would have just said I'm a full-stack developer, but it would not make sense. Some projects have not been shared because a few things inside are private.
+I'm also learning how to get the most out of today's AI ecosystem, both as an engineer and as a creator.
 
-I'm waiting for you to get in touch below.
+- **AI-assisted development:** Using tools like ChatGPT, Claude Code, OpenCode, and other AI models to explore ideas, write and review code, debug issues, develop features, and build applications.
+- **AI agents & workflows:** Experimenting with agentic tools and workflows that can help automate tasks, support development, and turn ideas into working products.
+- **AI-powered creative production:** Exploring tools for generating video clips, developing visual concepts, and producing creative content for applications, marketing, and digital projects.
+- **Continuous learning:** Using AI to investigate unfamiliar technologies, compare approaches, and accelerate experimentation.
 
-### Get in touch:
-- 📫 How to reach me: [Send me an email here](mailto:emmanuel.adekplovi@homescriptone.com) or [here](mailto:homescript1@gmail.com)
-- 😄 Pronouns: He / Mr
-- ⚡ Fun fact: In an alternate universe, I will be part of the Straw Hats crew—not writing code, but avoiding the World Government in order to find the One Piece. Since we are in the real world, I am a hero fighting bugs 👨🏾‍💻
+But here's the thing: **I use AI as an accelerator, not a crutch.**
+
+I can work with AI tools when they provide an advantage, but I can also research, reason through technical problems, write code, debug, and build solutions independently. Knowing how to evaluate the output matters just as much as knowing how to generate it.
+
+For me, the real skill is understanding what needs to be built, knowing how to use the tools available, and making sure the final result actually works.
+
+## 🚀 Building with HOMESCRIPT
+
+I'm currently running **HOMESCRIPT**, where I work on software development, engineering, maintenance, and digital solutions for businesses.
+
+My work spans WordPress projects, custom web applications, mobile apps, infrastructure, deployment automation, and other technical challenges that need practical solutions.
+
+Alongside client work, I continue to build personal products and explore new ideas through projects such as **HomeScript, UltiWP, and Tiyalo**.
+
+Some projects are public; others are still behind the scenes. Not everything is ready to see the light of day just yet. 👀
+
+### 🤝 Looking for a Developer or Technical Partner?
+
+If you're looking for someone to build or improve a WordPress website, develop a web or mobile application, streamline deployments, manage infrastructure, or explore a new technical idea, feel free to reach out.
+
+You can explore my work and see whether my experience fits your needs:
+
+- 🌐 **Website:** [HomeScriptOne](https://homescriptone.com)
+- 💻 **HomeScriptOne GitHub:** [github.com/homescriptone](https://github.com/homescriptone)
+- 👨🏾‍💻 **Personal GitHub:** [github.com/manutheblacker](https://github.com/manutheblacker)
+- 📧 **Email:** [emmanuel.adekplovi@homescriptone.com](mailto:emmanuel.adekplovi@homescriptone.com)
+- 📧 **Alternative email:** [homescript1@gmail.com](mailto:homescript1@gmail.com)
+
+Whether it's a client project, a collaboration, or an interesting idea worth exploring, let's talk.
+
+## 🎸 A Little Personality
+
+As Radiohead put it in *There There*:
+
+> We are accidents waiting to happen.
+
+Maybe you'll stumble across this profile by accident, discover something interesting, and we'll end up building something together.
+
+And in an alternate universe, I'd be sailing with the Straw Hats, dodging the World Government in search of the One Piece.
+
+In this universe, I'm hunting bugs, deploying applications, and occasionally wondering why something worked perfectly on my machine. 👨🏾‍💻🏴‍☠️
+
+*The adventure continues...* 🚀
